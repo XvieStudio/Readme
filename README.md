@@ -2,10 +2,10 @@
 
 # 👨‍💻 Minecraft Developer Profile
 
-🧠 Medium Developer • Skript Engineer • Server System Designer
-💡 Specialized in SMP & RPG Server Development
+# 🧠 Medium Developer • Skript Engineer • Server System Designer
+# 💡 Specialized in SMP & RPG Server Development
 
-# I mainly develop complex gameplay systems using Skript + Plugins integration to simulate network‑level mechanics inside community servers.
+# 🛠️ I mainly develop complex gameplay systems using Skript + Plugins integration to simulate network‑level mechanics inside community servers.
 
 # 🏗️ Experience
 • Developer:
