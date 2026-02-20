@@ -5,6 +5,8 @@
 🧠 Medium Developer • Skript Engineer • Server System Designer
 💡 Specialized in SMP & RPG Server Development
 
+# I mainly develop complex gameplay systems using Skript + Plugins integration to simulate network‑level mechanics inside community servers.
+
 # 🏗️ Experience
 • Developer:
 • Zherphia RP
@@ -16,8 +18,6 @@
 
 # Trial Developer:
 Nexus Cloud Network
-
-I mainly develop complex gameplay systems using Skript + Plugins integration to simulate network‑level mechanics inside community servers.
 
 # ⚙️ Minecraft Specialization
 
